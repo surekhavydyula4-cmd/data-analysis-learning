@@ -1,0 +1,10 @@
+-- 1. Show employees with salary > 50000
+-- 2. Show employees from IT department
+-- 3. Show employees from HR or Finance
+-- 4. Show employees whose salary is between 40000 and 60000
+-- 5. Show employees whose name starts with 'R'
+-- 6. Show employees whose name ends with 'a'
+-- 7. Show employees from cities Hyderabad or Delhi
+-- 8. Show employees whose salary is not 45000
+-- 9. Show all employees sorted by salary ascending
+-- 10. Show all employees sorted by name descending
