@@ -1,5 +1,5 @@
-python Chapter 2 - Conditions
-Practice Questions
+# python Chapter 2 - Conditions
+# Practice Questions
 
 # 1. Check if a number is positive or negative
 # 2. Check if a number is even or odd
