@@ -1,0 +1,10 @@
+-- 1. Count total number of employees
+-- 2. Find total salary of all employees
+-- 3. Find average salary of employees
+-- 4. Find minimum salary
+-- 5. Find maximum salary
+-- 6. Count employees in each department
+-- 7. Find total salary by department
+-- 8. Find average salary by department
+-- 9. Show departments having more than 2 employees
+-- 10. Show departments where average salary is greater than 55000
