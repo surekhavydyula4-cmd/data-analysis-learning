@@ -6,6 +6,7 @@ This chapter focuses on combining data from multiple tables.
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
+- SELF JOIN(concept)
 
 
 ## Files
