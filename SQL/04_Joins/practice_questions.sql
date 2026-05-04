@@ -7,4 +7,4 @@
 -- 7. Show total employees in each department
 -- 8. Show average salary by department
 -- 9. Show employees earning more than 50000 with department name
--- 10. Show employees and their manager names (self join concept)
+-- 10. Show highest salary in each department
