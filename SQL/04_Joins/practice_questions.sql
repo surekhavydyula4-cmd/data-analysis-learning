@@ -1,0 +1,10 @@
+-- 1. Show employee names with their department names
+-- 2. Show all employees and their departments (even if no department)
+-- 3. Show all departments and their employees
+-- 4. Show employees who do not belong to any department
+-- 5. Show departments that have no employees
+-- 6. Show employee name and salary along with department name
+-- 7. Show total employees in each department
+-- 8. Show average salary by department
+-- 9. Show employees earning more than 50000 with department name
+-- 10. Show employees and their manager names (self join concept)
