@@ -7,6 +7,6 @@
 - Scalar subqueries
 
 ## Files
-schema.sql
-practice_questions.sql
-solutions.sql
+- schema.sql
+- practice_questions.sql
+- solutions.sql
