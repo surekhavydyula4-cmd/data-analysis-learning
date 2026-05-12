@@ -1,4 +1,5 @@
--- SQL Chapter 7 - CTEs & Advanced SQL Practice
+-- SQL Chapter 7 - CTEs & Advanced SQL 
+-- Practice questions
 
 
 -- 1. Create a CTE to show employees with salary > 50000
@@ -12,14 +13,18 @@
 --    40000-60000 = Medium
 --    <40000 = Low
 
--- 5. Replace NULL values using COALESCE()
+-- 5. Find employees earning more than their department average using CTE
 
--- 6. Avoid division by zero using NULLIF()
+-- 6. Find departments having more than 2 employees using CTE
 
--- 7. Find employees whose department exists in another query using EXISTS
+-- 7. Find employees working in departments where someone earns more than 60000 using EXISTS
 
--- 8. Find employees whose department does not exist using NOT EXISTS
+-- 8. Find employees working in departments where nobody earns more than 60000 using NOT EXISTS
 
--- 9. Create multiple CTEs and join them
+-- 9. Create multiple CTEs:
+--    one for department average salary
+--    one for employees with salary > 50000
+--    then join them
 
 -- 10. Find second highest salary using CTE
+
