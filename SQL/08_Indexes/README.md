@@ -35,3 +35,8 @@ ON table_name(column_name);
 ## Disadvantages
 - Slower INSERT/UPDATE/DELETE
 - Extra storage required
+
+## Files
+- schema.sql
+- prcatice_questions.sql
+- solutions.sql
