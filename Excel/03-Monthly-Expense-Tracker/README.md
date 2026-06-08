@@ -1,39 +1,27 @@
 
 # Day 3 - Monthly Expense Tracker
 
-## About This Project
+## Project Overview
+This project is a basic Excel monthly expense tracker created for Day 3 practice. The sheet records expenses, tracks spending, calculates budget summaries, and uses sorting and filtering for analysis.
 
-For Day 3 of my Excel learning journey, I created a Monthly Expense Tracker to record and analyze daily expenses.
+## Features
+- Expense tracking table
+- Total spending calculation
+- Highest expense identification
+- Lowest expense identification
+- Monthly budget tracking
+- Remaining budget calculation
+- Sorting and filtering
+- Conditional formatting
 
-In this project, I entered expenses under different categories such as Food, Travel, Bills, Shopping, and Entertainment. I also created a small summary section to track spending and remaining budget.
+## Functions Used
+- SUM()
+- MAX()
+- MIN()
 
-## What I Learned
+## Conditional Formatting Rules
+- Green → Expense < ₹500
+- Red → Expense > ₹1500
 
-- How to use SUM() to calculate total expenses
-- How to use MAX() and MIN() to find highest and lowest expenses
-- How to apply filters to view specific categories
-- How to sort data in ascending and descending order
-- How to use conditional formatting to highlight important values
-- How to format values as Indian Rupees (₹)
-- How to calculate remaining budget
-
-## Summary Calculations
-
-- Total Spending
-- Highest Expense
-- Lowest Expense
-- Monthly Budget
-- Remaining Budget
-
-## Files
-
-- Excel Workbook
-- Project Screenshot
-- Filter Demonstration Screenshots
-
-## Key Takeaway
-
-This project helped me understand how Excel can be used to track expenses, manage budgets, and organize data using sorting and filtering features.
-- Filter_Bills.png
-- Filter_Entertainment.png
-- README.md
+## Learning Outcome
+Practiced expense tracking, budget analysis, sorting, filtering, and conditional formatting using Excel.
