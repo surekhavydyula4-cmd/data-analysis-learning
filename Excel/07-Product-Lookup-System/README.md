@@ -1,42 +1,42 @@
-Day 7 - Product Lookup System
+# Day 7 - Product Lookup System
 
-Project Overview
+## Project Overview
 
-This project is a basic Excel product lookup system created for Day 7 practice. The sheet uses VLOOKUP() to search for product details from the master data table based on Product ID.
+This project is a basic Excel product lookup system created for Day 7 practice. The sheet uses VLOOKUP() to search product details from the data table based on Product ID.
 
-Features
+## Features
 
-Product data table
-Product lookup table
-Product name lookup
-Category lookup
-Price lookup
-Conditional formatting for price
-Notes section explaining formulas used
+- Product data table  
+- Product lookup table  
+- Product name lookup  
+- Category lookup  
+- Price lookup  
+- Conditional formatting for price  
+- Notes section explaining formulas used  
 
-Functions Used
+## Functions Used
 
-VLOOKUP()
+- VLOOKUP()
 
-Conditional Formatting Rules
+## Conditional Formatting Rules
 
-Green → Fee status → Paid
-Red → Fee status → Pending
+- Green → Fee Status → Paid  
+- Red → Fee Status → Pending  
 
-Formula Logic
+## Formula Logic
 
-Product Name Lookup:
+### Product Name Lookup
 
-Search Product ID from the Data table and return Product Name.
+Search Product ID from the data table and return Product Name.
 
-Category Lookup:
+### Category Lookup
 
-Search Product ID from the Data table and return Category.
+Search Product ID from the data table and return Category.
 
-Price Lookup:
+### Price Lookup
 
-Search Product ID from the Data table and return Price.
+Search Product ID from the data table and return Price.
 
-Learning Outcome
+## Learning Outcome
 
-Practiced VLOOKUP() to search and retrieve data from another sheet. Learned how to use lookup values, table arrays, column index numbers, and exact match conditions to fetch related information quickly from large datasets.
+Practiced VLOOKUP() to search and retrieve product information from another sheet. Learned how lookup value, table array, column index, and exact match work together to fetch related data quickly.
