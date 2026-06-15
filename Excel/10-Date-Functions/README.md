@@ -19,12 +19,6 @@ This project is a simple employee joining date analysis sheet created for Day 10
 - TODAY()
 - YEAR()
 
-## Conditional Formatting Rules
-
-- Green → Experience greater than 5 years
-- Yellow → Experience between 3 and 5 years
-- Red → Experience less than 3 years
-
 ## Formula Logic
 
 Joining Year:
